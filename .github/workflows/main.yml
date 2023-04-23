@@ -1,7 +1,7 @@
+name: 🚀 Bruno Ruf CI
 on:
   push:
     branches: -main
-name: 🚀 Bruno Ruf CI
 jobs:
   build:
     runs-on: ubuntu-latest
